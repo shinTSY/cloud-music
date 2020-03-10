@@ -21,6 +21,7 @@ export const Tab = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  height: 44px;
   background: ${style['theme-color']};
   a {
     flex: 1;
